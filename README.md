@@ -101,7 +101,7 @@ Version control, particularly with tools like GitHub, is essential for managing 
 
 
 
-## QUESTION NO 2: Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+## QUESTION 2: Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 
 Setting up a new repository on GitHub is a straightforward process, but it involves several key steps and decisions to ensure that the repository meets your needs. Here’s a detailed guide on how to set up a new repository on GitHub:
