@@ -331,7 +331,7 @@ Choosing between a public and private repository depends on your project’s goa
 
 
 
-## QUESTION 4: Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+## QUESTION 5: Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
 # solution
 
@@ -405,7 +405,7 @@ Understanding and managing commits is fundamental to effectively using Git and G
 
 
 
-## QUESTION 5; How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+## QUESTION 6; How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ### solution
 Branching in Git is a powerful feature that allows developers to diverge from the main codebase and work on different tasks or features independently. This feature is crucial for collaborative development, especially on platforms like GitHub. Here’s a breakdown of how branching works and why it’s important, along with a typical workflow involving branch creation, usage, and merging.
@@ -502,7 +502,7 @@ Branching is a cornerstone of Git’s functionality and greatly enhances collabo
 
 
 
-## QUESTION 6:Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+## QUESTION 7: Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
 ### SOLUTION.
 
@@ -575,7 +575,7 @@ Pull requests play a critical role in the GitHub workflow by facilitating code r
 
 
 
-## NUMBER 7: Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+## NUMBER 8: Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ### SOLUTION:
 
@@ -635,7 +635,7 @@ Forking provides a way to safely interact with and contribute to projects, while
 
 
 
-## NUMBER 8:  Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+## NUMBER 9:  Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 ### SOULTION:
 
@@ -709,7 +709,7 @@ Together, issues and project boards enhance collaboration by providing clear com
 
 
 
-## NUMBER 9: Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+## NUMBER 10: Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
 
 ### SOLUTION
 
